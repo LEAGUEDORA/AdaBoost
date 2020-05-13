@@ -1,2 +1,2 @@
 # AdaBoost
-Assignment Goola oo saavakotutunnaru
+Assignment
